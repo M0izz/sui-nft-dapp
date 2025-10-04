@@ -4,7 +4,7 @@ A modern, feature-rich React dApp for minting and managing NFTs on the Sui block
 
 ## 🌐 **Live Demo**
 
-**🔗 [Try it now: https://sui-nft-minter.vercel.app](https://sui-nft-minter.vercel.app)**
+**🔗 [Try it now:[(https://vercel.com/moizzs-projects/moizz-sui-nft-dapp)]**
 
 Experience the universal Sui NFT minting platform live! Connect your wallet, configure your contract, and start minting NFTs on Sui testnet.
 
@@ -134,7 +134,7 @@ npm run lint         # Run ESLint
 
 ### 🌐 **Live Production Deployment**
 
-**🔗 Live App**: https://sui-nft-minter.vercel.app
+**🔗 Live App**: [https://vercel.com/moizzs-projects/moizz-sui-nft-dapp]
 
 This app is automatically deployed on Vercel with:
 - ✅ **Production-ready** build optimization
