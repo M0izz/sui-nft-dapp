@@ -735,12 +735,12 @@ const App = () => {
             <p className="text-gray-500 text-xs">
               Created by{' '}
               <a 
-                href="https://github.com/mehetab-01" 
+                href="https://github.com/M0izz" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 transition-colors hover:underline"
               >
-                @mehetab-01
+                @M0izz
               </a>
             </p>
           </div>
